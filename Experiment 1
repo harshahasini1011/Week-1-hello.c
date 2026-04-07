@@ -1,0 +1,6 @@
+#include<stdio.h>
+int main(){
+printf("25331A05C7");
+printf("hello world");
+return 0;
+}
